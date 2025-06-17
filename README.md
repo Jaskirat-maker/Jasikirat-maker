@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Spring Boot (Java) backend development**
 - 🌱 I’m learning **Java Core, Spring Ecosystem, REST APIs, and System Design**
 - 👯 I’m looking to collaborate on **Java-based backend systems and RESTful APIs**
-- 📫 Reach me at: **ramghariajaskrat6082@gmail.com**
+- 📫 Reach me at: **ramghariajaskrat608@gmail.com**
 - ⚡ Fun fact: *I love writing clean, testable Java code with solid architecture!*
 
 ---
